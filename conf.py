@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Intelligent Resources'
+project = u'Prueba'
 copyright = u'2022'
 author = u'Various'
 
@@ -62,7 +62,7 @@ author = u'Various'
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 
-version = release = "1.0.0"
+version = release = "1.0.1"
 
 #
 # The short X.Y version.
@@ -191,4 +191,4 @@ breathe_default_project = "SOF Project"
 breathe_default_members = ('members', 'undoc-members', 'content-only')
 
 extlinks = {'projectfile':
-    ('https://github.com/IntelligentRoboticsLabs/Intelligent_Resources/blob/main/%s', 'filepath ')}
+    ('https://github.com/Juancams/prueba/blob/main/%s', 'filepath ')}

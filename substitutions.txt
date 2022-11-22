@@ -1,9 +1,9 @@
 .. |br|     raw:: html        .. force a line break in HTML output (blank lines needed here)
 
    <br />
-.. |PN| replace:: Intelligent Resources
+.. |PN| replace:: Prueba
 
-.. |LPN| replace:: Intelligent Resources
+.. |LPN| replace:: Prueba
 
 .. _project repo: https://github.com/Juancams
 
