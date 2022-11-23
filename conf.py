@@ -149,8 +149,8 @@ html_context = {
 #
 # html_theme_options = {}
 
-html_logo = 'images/intelligent_logo.jpg'
-html_favicon = 'images/intelligent_logo.jpg'
+html_logo = 'images/mocap4ros2_logo.png'
+html_favicon = 'images/mocap4ros2_48x48.png'
 
 numfig = True
 #numfig_secnum_depth = (2)
